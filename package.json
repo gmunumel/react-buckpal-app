@@ -50,6 +50,12 @@
     "@types/axios": "^0.9.36",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^5.4.0",
-    "prettier": "^3.5.3"
+    "prettier": "^3.5.3",
+    "ts-jest": "^29.3.3"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "^axios$": "axios/dist/node/axios.cjs"
+    }
   }
 }

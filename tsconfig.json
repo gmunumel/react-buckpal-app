@@ -20,5 +20,5 @@
       "*": ["*"]
     }
   },
-  "include": ["src"]
+  "include": ["src", "src/components/User/__tests__/UserList.test.tsx", "src/components/User/__tests__/UserForm.test.tsx", "src/pages/__tests__/UserPage.test.tsx", "src/store/slices/__tests__/userSlice.test.ts", "src/App.test.tsx"]
 }

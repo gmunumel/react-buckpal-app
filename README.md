@@ -1,7 +1,6 @@
 # Create React App
 
-Project to run React front-end UI for my buckpall app. 
-
+Project to run React front-end UI for my buckpal app.
 
 ## Available Scripts
 
